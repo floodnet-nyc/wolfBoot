@@ -1,0 +1,2676 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+                              ./lib/wolfssl/wolfcrypt/src/sp_int.o (__aeabi_uldivmod)
+/opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+                              /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_dvmd_tls.o)
+                              /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./hal/stm32u5.o
+ .text          0x0000000000000000        0x0 ./hal/stm32u5.o
+ .bss           0x0000000000000000        0x0 ./hal/stm32u5.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ./hal/stm32u5.o
+ .text.hal_flash_opt_unlock
+                0x0000000000000000       0x48 ./hal/stm32u5.o
+ .text.hal_flash_opt_lock
+                0x0000000000000000       0x40 ./hal/stm32u5.o
+ .text.stm32u5_reboot
+                0x0000000000000000       0x10 ./hal/stm32u5.o
+ .text.hal_flash_dualbank_swap
+                0x0000000000000000       0x50 ./hal/stm32u5.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .group         0x0000000000000000        0xc ./src/string.o
+ .text          0x0000000000000000        0x0 ./src/string.o
+ .bss           0x0000000000000000        0x0 ./src/string.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ./src/string.o
+ .text.islower  0x0000000000000000       0x1c ./src/string.o
+ .text.isupper  0x0000000000000000       0x1c ./src/string.o
+ .text.tolower  0x0000000000000000       0x22 ./src/string.o
+ .text.toupper  0x0000000000000000       0x22 ./src/string.o
+ .text.isalpha  0x0000000000000000       0x2c ./src/string.o
+ .text.strcat   0x0000000000000000       0x56 ./src/string.o
+ .text.strcmp   0x0000000000000000       0x3c ./src/string.o
+ .text.strcasecmp
+                0x0000000000000000       0x4e ./src/string.o
+ .text.strncasecmp
+                0x0000000000000000       0x66 ./src/string.o
+ .text.strncat  0x0000000000000000       0x66 ./src/string.o
+ .text.strncmp  0x0000000000000000       0x4a ./src/string.o
+ .text.strncpy  0x0000000000000000       0x44 ./src/string.o
+ .text.strcpy   0x0000000000000000       0x38 ./src/string.o
+ .text.memmove  0x0000000000000000       0x62 ./src/string.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/string.o
+ .debug_macro   0x0000000000000000      0x174 ./src/string.o
+ .debug_macro   0x0000000000000000       0x22 ./src/string.o
+ .debug_macro   0x0000000000000000       0x6e ./src/string.o
+ .debug_macro   0x0000000000000000       0x24 ./src/string.o
+ .debug_macro   0x0000000000000000       0x94 ./src/string.o
+ .debug_macro   0x0000000000000000       0x3c ./src/string.o
+ .debug_macro   0x0000000000000000       0x34 ./src/string.o
+ .debug_macro   0x0000000000000000       0x16 ./src/string.o
+ .debug_macro   0x0000000000000000       0x43 ./src/string.o
+ .debug_macro   0x0000000000000000       0x57 ./src/string.o
+ .debug_macro   0x0000000000000000       0x34 ./src/string.o
+ .debug_macro   0x0000000000000000       0x10 ./src/string.o
+ .debug_macro   0x0000000000000000       0x58 ./src/string.o
+ .debug_macro   0x0000000000000000      0x1de ./src/string.o
+ .debug_macro   0x0000000000000000      0x369 ./src/string.o
+ .debug_macro   0x0000000000000000       0x10 ./src/string.o
+ .debug_macro   0x0000000000000000       0x35 ./src/string.o
+ .debug_macro   0x0000000000000000       0x20 ./src/string.o
+ .debug_macro   0x0000000000000000      0x34e ./src/string.o
+ .debug_macro   0x0000000000000000       0x46 ./src/string.o
+ .debug_macro   0x0000000000000000       0x16 ./src/string.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/string.o
+ .debug_macro   0x0000000000000000       0x74 ./src/string.o
+ .debug_macro   0x0000000000000000       0x92 ./src/string.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .group         0x0000000000000000        0xc ./src/image.o
+ .text          0x0000000000000000        0x0 ./src/image.o
+ .bss           0x0000000000000000        0x0 ./src/image.o
+ .text.get_header_ext
+                0x0000000000000000       0x14 ./src/image.o
+ .text.wolfBoot_peek_image
+                0x0000000000000000       0x2c ./src/image.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/image.o
+ .debug_macro   0x0000000000000000       0x46 ./src/image.o
+ .debug_macro   0x0000000000000000      0x174 ./src/image.o
+ .debug_macro   0x0000000000000000       0x22 ./src/image.o
+ .debug_macro   0x0000000000000000       0x6e ./src/image.o
+ .debug_macro   0x0000000000000000       0x24 ./src/image.o
+ .debug_macro   0x0000000000000000       0x94 ./src/image.o
+ .debug_macro   0x0000000000000000       0x3c ./src/image.o
+ .debug_macro   0x0000000000000000       0x34 ./src/image.o
+ .debug_macro   0x0000000000000000       0x16 ./src/image.o
+ .debug_macro   0x0000000000000000       0x43 ./src/image.o
+ .debug_macro   0x0000000000000000       0x57 ./src/image.o
+ .debug_macro   0x0000000000000000       0x34 ./src/image.o
+ .debug_macro   0x0000000000000000       0x10 ./src/image.o
+ .debug_macro   0x0000000000000000       0x58 ./src/image.o
+ .debug_macro   0x0000000000000000      0x1de ./src/image.o
+ .debug_macro   0x0000000000000000      0x369 ./src/image.o
+ .debug_macro   0x0000000000000000       0x10 ./src/image.o
+ .debug_macro   0x0000000000000000       0x35 ./src/image.o
+ .debug_macro   0x0000000000000000       0x20 ./src/image.o
+ .debug_macro   0x0000000000000000      0x34e ./src/image.o
+ .debug_macro   0x0000000000000000       0x16 ./src/image.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/image.o
+ .debug_macro   0x0000000000000000       0x74 ./src/image.o
+ .debug_macro   0x0000000000000000       0x92 ./src/image.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/libwolfboot.o
+ .text          0x0000000000000000        0x0 ./src/libwolfboot.o
+ .bss           0x0000000000000000        0x0 ./src/libwolfboot.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ./src/libwolfboot.o
+ .text.rotlFixed
+                0x0000000000000000       0x18 ./src/libwolfboot.o
+ .text.ByteReverseWord32
+                0x0000000000000000       0x2c ./src/libwolfboot.o
+ .text.wb_reverse_word32
+                0x0000000000000000       0x16 ./src/libwolfboot.o
+ .text.wolfBoot_erase_partition
+                0x0000000000000000       0x68 ./src/libwolfboot.o
+ .text.wolfBoot_success
+                0x0000000000000000       0x32 ./src/libwolfboot.o
+ .text.wolfBoot_get_blob_diffbase_version
+                0x0000000000000000       0x58 ./src/libwolfboot.o
+ .text.wolfBoot_get_diffbase_version
+                0x0000000000000000       0x26 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x34e ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x46 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x74 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x92 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x10 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x174 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x1c ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x162 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x79 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x48 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x4a ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x24 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x22 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x6e ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x94 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x3c ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x34 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x35 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x43 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x57 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x34 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x10 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x58 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x1de ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x369 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x29 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x20 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x1c ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x10 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x1c ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x171 ./src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x131 ./src/libwolfboot.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/keystore.o
+ .text          0x0000000000000000        0x0 ./src/keystore.o
+ .bss           0x0000000000000000        0x0 ./src/keystore.o
+ .text.keystore_get_key_type
+                0x0000000000000000       0x20 ./src/keystore.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/keystore.o
+ .debug_macro   0x0000000000000000      0x34e ./src/keystore.o
+ .debug_macro   0x0000000000000000       0x46 ./src/keystore.o
+ .debug_macro   0x0000000000000000       0x16 ./src/keystore.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/keystore.o
+ .debug_macro   0x0000000000000000       0x74 ./src/keystore.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .group         0x0000000000000000        0xc ./src/loader.o
+ .text          0x0000000000000000        0x0 ./src/loader.o
+ .bss           0x0000000000000000        0x0 ./src/loader.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ./src/loader.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/loader.o
+ .debug_macro   0x0000000000000000       0x10 ./src/loader.o
+ .debug_macro   0x0000000000000000      0x34e ./src/loader.o
+ .debug_macro   0x0000000000000000       0x46 ./src/loader.o
+ .debug_macro   0x0000000000000000       0x16 ./src/loader.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/loader.o
+ .debug_macro   0x0000000000000000       0x74 ./src/loader.o
+ .debug_macro   0x0000000000000000       0x92 ./src/loader.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .group         0x0000000000000000        0xc src/boot_arm.o
+ .text          0x0000000000000000        0x0 src/boot_arm.o
+ .bss           0x0000000000000000        0x0 src/boot_arm.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 src/boot_arm.o
+ .debug_macro   0x0000000000000000      0xb14 src/boot_arm.o
+ .debug_macro   0x0000000000000000      0x34e src/boot_arm.o
+ .debug_macro   0x0000000000000000       0x46 src/boot_arm.o
+ .debug_macro   0x0000000000000000       0x16 src/boot_arm.o
+ .debug_macro   0x0000000000000000      0x1a8 src/boot_arm.o
+ .debug_macro   0x0000000000000000       0x74 src/boot_arm.o
+ .debug_macro   0x0000000000000000       0x92 src/boot_arm.o
+ .debug_macro   0x0000000000000000       0x10 src/boot_arm.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .group         0x0000000000000000        0xc hal/stm32_tz.o
+ .text          0x0000000000000000        0x0 hal/stm32_tz.o
+ .bss           0x0000000000000000        0x0 hal/stm32_tz.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 hal/stm32_tz.o
+ .text.hal_flash_nonsecure_unlock
+                0x0000000000000000       0x44 hal/stm32_tz.o
+ .text.hal_flash_nonsecure_lock
+                0x0000000000000000       0x24 hal/stm32_tz.o
+ .text.hal_tz_claim_nonsecure_area
+                0x0000000000000000       0xf8 hal/stm32_tz.o
+ .text.hal_tz_release_nonsecure_area
+                0x0000000000000000       0x2c hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0xb14 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x34e hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x22 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x6e hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x24 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x94 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x3c hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x34 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x174 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x16 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x43 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x57 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x34 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x10 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x58 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x1de hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x369 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x10 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x35 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x20 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x3eb hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x46 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x16 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000      0x1a8 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x74 hal/stm32_tz.o
+ .debug_macro   0x0000000000000000       0x92 hal/stm32_tz.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./src/update_flash.o
+ .text          0x0000000000000000        0x0 ./src/update_flash.o
+ .bss           0x0000000000000000        0x0 ./src/update_flash.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0xb14 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x22 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x6e ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x24 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x94 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x3c ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x34 ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0x174 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x16 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x43 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x57 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x34 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x10 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x58 ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0x1de ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0x369 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x10 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x35 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x20 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x10 ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0x34e ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x46 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x16 ./src/update_flash.o
+ .debug_macro   0x0000000000000000      0x1a8 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x74 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x92 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x22 ./src/update_flash.o
+ .debug_macro   0x0000000000000000       0x10 ./src/update_flash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.ForceZero
+                0x0000000000000000       0x28 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256FinalRaw
+                0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256Free
+                0x0000000000000000       0x1e ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256GetHash
+                0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256Copy
+                0x0000000000000000       0x32 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text.wolfSSL_SetLoggingCb
+                0x0000000000000000        0xe ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text.wolfSSL_GetLoggingCb
+                0x0000000000000000        0x6 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text.wolfSSL_Debugging_ON
+                0x0000000000000000        0x8 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text.wolfSSL_Debugging_OFF
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .text.wolfSSL_SetLoggingPrefix
+                0x0000000000000000        0xa ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/asn.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_init_size
+                0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_zero  0x0000000000000000       0x1a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_copy
+                0x0000000000000000       0x40 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_copy  0x0000000000000000       0x56 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_cond_swap_ct_ex
+                0x0000000000000000       0xec ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_cond_swap_ct
+                0x0000000000000000       0x44 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_leading_bit
+                0x0000000000000000       0x42 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_set_bit
+                0x0000000000000000       0x96 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_cmp_d
+                0x0000000000000000       0x64 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_sub_d
+                0x0000000000000000       0xe6 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_sub_d
+                0x0000000000000000       0x52 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_mul_d
+                0x0000000000000000      0x11c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_div_word
+                0x0000000000000000       0x5e ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_div_2
+                0x0000000000000000       0x96 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_add_off
+                0x0000000000000000      0x1b0 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_sub_off
+                0x0000000000000000      0x17a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_add   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_sub   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_lshd  0x0000000000000000       0xb2 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_lshb  0x0000000000000000      0x130 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_rshb  0x0000000000000000      0x156 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_div_same_size
+                0x0000000000000000       0xba ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_div_impl
+                0x0000000000000000      0x17c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_div  0x0000000000000000      0x392 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_div   0x0000000000000000      0x134 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_mod   0x0000000000000000       0x54 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_mul  0x0000000000000000      0x238 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_mul   0x0000000000000000       0x78 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_invmod_bin
+                0x0000000000000000      0x160 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_invmod
+                0x0000000000000000      0x274 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_invmod
+                0x0000000000000000       0xfa ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_sqr   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_sqrmod
+                0x0000000000000000       0x6c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_sqrmod
+                0x0000000000000000       0xae ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_to_unsigned_bin
+                0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_to_unsigned_bin_len
+                0x0000000000000000       0xce ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.CheckRunTimeSettings
+                0x0000000000000000        0x6 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.CheckRunTimeFastMath
+                0x0000000000000000        0x6 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x17 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x118 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x5b ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x23 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x123 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x0000000000000000      0x25e ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_mp_mod
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_order2
+                0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_mp_order
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_b
+                0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_point_from_ecc_point_8
+                0x0000000000000000       0x70 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_mulmod_256
+                0x0000000000000000       0x5e ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_mulmod_add_256
+                0x0000000000000000      0x138 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_mulmod_base_add_256
+                0x0000000000000000      0x12c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_add_one_8
+                0x0000000000000000       0x3a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_ecc_gen_k_8
+                0x0000000000000000       0x4c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_make_key_256
+                0x0000000000000000       0x68 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_ecc_is_point_8
+                0x0000000000000000       0xbc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_is_point_256
+                0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_check_key_256
+                0x0000000000000000      0x208 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x11 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x34e ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x17 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x118 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x5b ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x123 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000      0x25e ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.ForceZero
+                0x0000000000000000       0x28 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .rodata.ecc_sets_count
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_name
+                0x0000000000000000       0x38 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_mulmod_ex
+                0x0000000000000000       0xbc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_mulmod_ex2
+                0x0000000000000000       0xa2 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_mulmod
+                0x0000000000000000       0x2e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_new_point_ex
+                0x0000000000000000       0x6c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_new_point_h
+                0x0000000000000000       0x1e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_new_point
+                0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_del_point_ex
+                0x0000000000000000       0x32 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_del_point_h
+                0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_del_point
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_forcezero_point
+                0x0000000000000000       0x30 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_copy_point
+                0x0000000000000000       0x78 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_cmp_point
+                0x0000000000000000       0x78 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_idx
+                0x0000000000000000       0x60 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_id
+                0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_size_from_id
+                0x0000000000000000       0x38 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_idx_from_name
+                0x0000000000000000       0x8c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_size_from_name
+                0x0000000000000000       0x40 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_id_from_name
+                0x0000000000000000       0x40 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_cmp_param
+                0x0000000000000000       0xbc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_id_from_params
+                0x0000000000000000      0x188 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_id_from_dp_params
+                0x0000000000000000      0x1ec ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_id_from_oid
+                0x0000000000000000       0xc0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_params
+                0x0000000000000000       0x30 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_point_is_at_infinity
+                0x0000000000000000       0x2c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_gen_k
+                0x0000000000000000       0x14 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_make_pub
+                0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_make_pub_ex
+                0x0000000000000000       0xc6 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text._ecc_make_key_ex
+                0x0000000000000000       0xa4 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_make_key_ex2
+                0x0000000000000000       0x28 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_make_key_ex
+                0x0000000000000000       0x26 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_key_new
+                0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_key_free
+                0x0000000000000000       0x3a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_make_key
+                0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_set_flags
+                0x0000000000000000       0x26 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_curve_order_bit_count
+                0x0000000000000000       0x62 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_point_der_ex
+                0x0000000000000000      0x148 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_point_der
+                0x0000000000000000       0x26 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text._ecc_is_point
+                0x0000000000000000       0x38 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_is_point
+                0x0000000000000000       0xaa ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text._ecc_validate_public_key
+                0x0000000000000000       0x78 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_check_key
+                0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_x963_ex
+                0x0000000000000000      0x14e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_x963
+                0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_private_key_ex
+                0x0000000000000000       0x6a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_private_key
+                0x0000000000000000       0x2a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_raw_ex
+                0x0000000000000000       0x2a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_raw
+                0x0000000000000000       0xc0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_size
+                0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_sig_size_calc
+                0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_sig_size
+                0x0000000000000000       0x72 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_set_rng
+                0x0000000000000000       0x28 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_get_oid
+                0x0000000000000000       0xa0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x23 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x17 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x118 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x25e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x65 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000      0x34e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x11 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .bss.malloc_function
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .bss.free_function
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .bss.realloc_function
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text.wolfSSL_SetAllocators
+                0x0000000000000000       0x30 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text.wolfSSL_GetAllocators
+                0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text.wolfSSL_Malloc
+                0x0000000000000000       0x2c ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text.wolfSSL_Free
+                0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .text.wolfSSL_Realloc
+                0x0000000000000000       0x30 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000000000       0x65 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .bss.initRefCount
+                0x0000000000000000        0x4 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wolfCrypt_Init
+                0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wolfCrypt_Cleanup
+                0x0000000000000000       0x30 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strtok
+                0x0000000000000000      0x12a ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strsep
+                0x0000000000000000       0x72 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strlcpy
+                0x0000000000000000       0x4e ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strlcat
+                0x0000000000000000       0x54 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_InitMutex
+                0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_FreeMutex
+                0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_LockMutex
+                0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_UnLockMutex
+                0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_InitRwLock
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_FreeRwLock
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_LockRwLock_Wr
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_LockRwLock_Rd
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_UnLockRwLock
+                0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.mystrnstr
+                0x0000000000000000       0x62 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x65 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x17 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x118 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x5b ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x54 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x123 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x25e ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x47 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .rodata.wc_off_on_addr
+                0x0000000000000000        0x8 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text.mp_reverse
+                0x0000000000000000       0x5c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text.get_digit_count
+                0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text.get_digit
+                0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text.mp_cond_copy
+                0x0000000000000000       0xfa ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .text.wc_export_int
+                0x0000000000000000       0x82 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x17 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x118 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x5b ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x23 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x123 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000      0x25e ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x65 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x11 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .group         0x0000000000000000        0xc ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text          0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .bss           0x0000000000000000        0x0 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashGetOID
+                0x0000000000000000       0x80 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_OidGetHash
+                0x0000000000000000       0x78 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashGetDigestSize
+                0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashGetBlockSize
+                0x0000000000000000       0x7c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_Hash  0x0000000000000000       0xac ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashInit_ex
+                0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashInit
+                0x0000000000000000       0x26 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashUpdate
+                0x0000000000000000       0xa0 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashFinal
+                0x0000000000000000       0x98 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_HashFree
+                0x0000000000000000       0x90 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text.wc_Sha256Hash
+                0x0000000000000000       0x5a ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0xb14 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x46 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x1e3 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x162 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x79 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x48 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x174 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x4a ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x24 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x22 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x6e ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x94 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x3c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x43 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x57 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x34 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x58 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x1de ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x369 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x29 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x74 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x20 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x66 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x10 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x1c ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x16 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x171 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000      0x131 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x5f ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x35 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x18 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x11 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000000000       0x12 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .text          0x0000000000000000       0x30 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000      0x2e8 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x0000000000000000        0x8 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .text          0x0000000000000000        0x4 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x000000000c000000 0x0000000000100000 xr
+RAM              0x0000000030000000 0x0000000000017fff xrw
+FLASH_NSC        0x000000000c020000 0x0000000000020000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD ./hal/stm32u5.o
+LOAD ./src/string.o
+LOAD ./src/image.o
+LOAD ./src/libwolfboot.o
+LOAD ./src/keystore.o
+LOAD ./src/loader.o
+LOAD src/boot_arm.o
+LOAD hal/stm32_tz.o
+LOAD ./src/update_flash.o
+LOAD ./lib/wolfssl/wolfcrypt/src/sha256.o
+LOAD ./lib/wolfssl/wolfcrypt/src/logging.o
+LOAD ./lib/wolfssl/wolfcrypt/src/asn.o
+LOAD ./lib/wolfssl/wolfcrypt/src/sp_int.o
+LOAD ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+LOAD ./lib/wolfssl/wolfcrypt/src/ecc.o
+LOAD ./lib/wolfssl/wolfcrypt/src/memory.o
+LOAD ./lib/wolfssl/wolfcrypt/src/wc_port.o
+LOAD ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+LOAD ./lib/wolfssl/wolfcrypt/src/hash.o
+END GROUP
+START GROUP
+LOAD /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a
+LOAD /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main/nofp/libc.a
+END GROUP
+
+.text           0x000000000c000000     0x7978
+                0x000000000c000000                _start_text = .
+ *(.isr_vector)
+ .isr_vector    0x000000000c000000      0x140 src/boot_arm.o
+                0x000000000c000000                IV
+ *(.text*)
+ .text.flash_set_waitstates
+                0x000000000c000140       0x30 ./hal/stm32u5.o
+ .text.flash_wait_complete
+                0x000000000c000170       0x34 ./hal/stm32u5.o
+ .text.flash_clear_errors
+                0x000000000c0001a4       0x34 ./hal/stm32u5.o
+ .text.hal_flash_write
+                0x000000000c0001d8      0x158 ./hal/stm32u5.o
+                0x000000000c0001d8                hal_flash_write
+ .text.hal_flash_unlock
+                0x000000000c000330       0x70 ./hal/stm32u5.o
+                0x000000000c000330                hal_flash_unlock
+ .text.hal_flash_lock
+                0x000000000c0003a0       0x3c ./hal/stm32u5.o
+                0x000000000c0003a0                hal_flash_lock
+ .text.hal_flash_erase
+                0x000000000c0003dc      0x110 ./hal/stm32u5.o
+                0x000000000c0003dc                hal_flash_erase
+ .text.clock_pll_off
+                0x000000000c0004ec       0x60 ./hal/stm32u5.o
+ .text.clock_pll_on
+                0x000000000c00054c      0x404 ./hal/stm32u5.o
+ .text.led_unsecure
+                0x000000000c000950       0x30 ./hal/stm32u5.o
+ .text.hal_init
+                0x000000000c000980       0x14 ./hal/stm32u5.o
+                0x000000000c000980                hal_init
+ .text.hal_prepare_boot
+                0x000000000c000994        0xe ./hal/stm32u5.o
+                0x000000000c000994                hal_prepare_boot
+ .text.memset   0x000000000c0009a2       0x2c ./src/string.o
+                0x000000000c0009a2                memset
+ .text.memcmp   0x000000000c0009ce       0x4a ./src/string.o
+                0x000000000c0009ce                memcmp
+ .text.strlen   0x000000000c000a18       0x24 ./src/string.o
+                0x000000000c000a18                strlen
+ .text.memcpy   0x000000000c000a3c       0x3c ./src/string.o
+                0x000000000c000a3c                memcpy
+ .text.wolfBoot_panic
+                0x000000000c000a78        0x2 ./src/image.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x000000000c000a7a       0x14 ./src/image.o
+ .text.wolfBoot_verify_signature
+                0x000000000c000a8e      0x112 ./src/image.o
+ .text.wolfBoot_get_header
+                0x000000000c000ba0       0x2a ./src/image.o
+                0x000000000c000ba0                wolfBoot_get_header
+ .text.get_sha_block
+                0x000000000c000bca       0x22 ./src/image.o
+ .text.get_img_hdr
+                0x000000000c000bec        0xe ./src/image.o
+ .text.image_sha256
+                0x000000000c000bfa       0xea ./src/image.o
+ .text.key_sha256
+                0x000000000c000ce4       0x8c ./src/image.o
+ .text.im2n     0x000000000c000d70        0xc ./src/image.o
+ .text.wolfBoot_image_size
+                0x000000000c000d7c       0x20 ./src/image.o
+                0x000000000c000d7c                wolfBoot_image_size
+ .text.wolfBoot_open_image_address
+                0x000000000c000d9c       0x88 ./src/image.o
+                0x000000000c000d9c                wolfBoot_open_image_address
+ .text.wolfBoot_open_image
+                0x000000000c000e24       0xa8 ./src/image.o
+                0x000000000c000e24                wolfBoot_open_image
+ .text.wolfBoot_verify_integrity
+                0x000000000c000ecc       0x74 ./src/image.o
+                0x000000000c000ecc                wolfBoot_verify_integrity
+ .text.wolfBoot_verify_authenticity
+                0x000000000c000f40      0x14c ./src/image.o
+                0x000000000c000f40                wolfBoot_verify_authenticity
+ .text.keyslot_id_by_sha
+                0x000000000c00108c       0x50 ./src/image.o
+                0x000000000c00108c                keyslot_id_by_sha
+ .text.get_base_offset
+                0x000000000c0010dc       0x16 ./src/libwolfboot.o
+ *fill*         0x000000000c0010f2        0x2 
+ .text.nvm_select_fresh_sector
+                0x000000000c0010f4      0x174 ./src/libwolfboot.o
+ .text.trailer_write
+                0x000000000c001268       0xd4 ./src/libwolfboot.o
+ .text.partition_magic_write
+                0x000000000c00133c       0xb4 ./src/libwolfboot.o
+ .text.get_trailer_at
+                0x000000000c0013f0       0x64 ./src/libwolfboot.o
+ .text.set_trailer_at
+                0x000000000c001454       0x5c ./src/libwolfboot.o
+ .text.set_partition_magic
+                0x000000000c0014b0       0x44 ./src/libwolfboot.o
+ .text.get_partition_magic
+                0x000000000c0014f4       0x20 ./src/libwolfboot.o
+ .text.get_partition_state
+                0x000000000c001514       0x20 ./src/libwolfboot.o
+ .text.set_partition_state
+                0x000000000c001534       0x2a ./src/libwolfboot.o
+ .text.set_update_sector_flags
+                0x000000000c00155e       0x24 ./src/libwolfboot.o
+ .text.get_update_sector_flags
+                0x000000000c001582       0x1c ./src/libwolfboot.o
+ *fill*         0x000000000c00159e        0x2 
+ .text.wolfBoot_set_partition_state
+                0x000000000c0015a0       0x78 ./src/libwolfboot.o
+                0x000000000c0015a0                wolfBoot_set_partition_state
+ .text.wolfBoot_set_update_sector_flag
+                0x000000000c001618       0xb8 ./src/libwolfboot.o
+                0x000000000c001618                wolfBoot_set_update_sector_flag
+ .text.wolfBoot_get_partition_state
+                0x000000000c0016d0       0x58 ./src/libwolfboot.o
+                0x000000000c0016d0                wolfBoot_get_partition_state
+ .text.wolfBoot_get_update_sector_flag
+                0x000000000c001728       0x74 ./src/libwolfboot.o
+                0x000000000c001728                wolfBoot_get_update_sector_flag
+ .text.wolfBoot_update_trigger
+                0x000000000c00179c       0xa0 ./src/libwolfboot.o
+                0x000000000c00179c                wolfBoot_update_trigger
+ .text.wolfBoot_find_header
+                0x000000000c00183c       0xe0 ./src/libwolfboot.o
+                0x000000000c00183c                wolfBoot_find_header
+ .text.im2n     0x000000000c00191c        0xc ./src/libwolfboot.o
+ .text.im2ns    0x000000000c001928       0x12 ./src/libwolfboot.o
+ *fill*         0x000000000c00193a        0x2 
+ .text.wolfBoot_get_blob_version
+                0x000000000c00193c       0x60 ./src/libwolfboot.o
+                0x000000000c00193c                wolfBoot_get_blob_version
+ .text.wolfBoot_get_blob_type
+                0x000000000c00199c       0x60 ./src/libwolfboot.o
+                0x000000000c00199c                wolfBoot_get_blob_type
+ .text.wolfBoot_get_image_from_part
+                0x000000000c0019fc       0x34 ./src/libwolfboot.o
+ .text.wolfBoot_get_image_version
+                0x000000000c001a30       0x26 ./src/libwolfboot.o
+                0x000000000c001a30                wolfBoot_get_image_version
+ .text.wolfBoot_get_image_type
+                0x000000000c001a56       0x30 ./src/libwolfboot.o
+                0x000000000c001a56                wolfBoot_get_image_type
+ .text.keystore_num_pubkeys
+                0x000000000c001a86        0x6 ./src/keystore.o
+                0x000000000c001a86                keystore_num_pubkeys
+ .text.keystore_get_buffer
+                0x000000000c001a8c       0x34 ./src/keystore.o
+                0x000000000c001a8c                keystore_get_buffer
+ .text.keystore_get_size
+                0x000000000c001ac0       0x38 ./src/keystore.o
+                0x000000000c001ac0                keystore_get_size
+ .text.keystore_get_mask
+                0x000000000c001af8       0x38 ./src/keystore.o
+                0x000000000c001af8                keystore_get_mask
+ .text.wolfBoot_panic
+                0x000000000c001b30        0x2 ./src/loader.o
+ .text.main     0x000000000c001b32       0x14 ./src/loader.o
+                0x000000000c001b32                main
+ .text.wolfBoot_panic
+                0x000000000c001b46        0x2 src/boot_arm.o
+ .text.isr_reset
+                0x000000000c001b48       0x44 src/boot_arm.o
+                0x000000000c001b48                isr_reset
+ .text.isr_fault
+                0x000000000c001b8c        0xa src/boot_arm.o
+                0x000000000c001b8c                isr_fault
+ .text.isr_empty
+                0x000000000c001b96        0x4 src/boot_arm.o
+                0x000000000c001b96                isr_empty
+ *fill*         0x000000000c001b9a        0x2 
+ .text.do_boot  0x000000000c001b9c       0x4c src/boot_arm.o
+                0x000000000c001b9c                do_boot
+ .text.hal_gtzc_init
+                0x000000000c001be8       0x70 hal/stm32_tz.o
+                0x000000000c001be8                hal_gtzc_init
+ .text.sau_init_region
+                0x000000000c001c58       0x50 hal/stm32_tz.o
+ .text.hal_tz_sau_init
+                0x000000000c001ca8       0x6c hal/stm32_tz.o
+                0x000000000c001ca8                hal_tz_sau_init
+ .text.wolfBoot_panic
+                0x000000000c001d14        0x2 ./src/update_flash.o
+ .text.wolfBoot_copy_sector
+                0x000000000c001d16       0xa6 ./src/update_flash.o
+ .text.wolfBoot_get_total_size
+                0x000000000c001dbc       0x34 ./src/update_flash.o
+ .text.wolfBoot_update
+                0x000000000c001df0      0x308 ./src/update_flash.o
+ .text.wolfBoot_start
+                0x000000000c0020f8      0x114 ./src/update_flash.o
+                0x000000000c0020f8                wolfBoot_start
+ .text.rotlFixed
+                0x000000000c00220c       0x18 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.rotrFixed
+                0x000000000c002224       0x14 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.ByteReverseWord32
+                0x000000000c002238       0x2c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.ByteReverseWords
+                0x000000000c002264       0x48 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.min      0x000000000c0022ac       0x16 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ *fill*         0x000000000c0022c2        0x2 
+ .text.InitSha256
+                0x000000000c0022c4       0x90 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_InitSha256_ex
+                0x000000000c002354       0x3c ./lib/wolfssl/wolfcrypt/src/sha256.o
+                0x000000000c002354                wc_InitSha256_ex
+ .text.Transform_Sha256
+                0x000000000c002390      0x6f8 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.AddLength
+                0x000000000c002a88       0x32 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.Sha256Update
+                0x000000000c002aba      0x138 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256Update
+                0x000000000c002bf2       0x46 ./lib/wolfssl/wolfcrypt/src/sha256.o
+                0x000000000c002bf2                wc_Sha256Update
+ .text.Sha256Final
+                0x000000000c002c38      0x108 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .text.wc_Sha256Final
+                0x000000000c002d40       0x54 ./lib/wolfssl/wolfcrypt/src/sha256.o
+                0x000000000c002d40                wc_Sha256Final
+ .text.wc_InitSha256
+                0x000000000c002d94       0x20 ./lib/wolfssl/wolfcrypt/src/sha256.o
+                0x000000000c002d94                wc_InitSha256
+ .text.ForceZero
+                0x000000000c002db4       0x28 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.HexCharToByte
+                0x000000000c002ddc       0x7a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_zero
+                0x000000000c002e56       0x1a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_init_size
+                0x000000000c002e70       0x20 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_init  0x000000000c002e90       0x2a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002e90                sp_init
+ .text.sp_init_multi
+                0x000000000c002eba       0x6a ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002eba                sp_init_multi
+ .text.sp_free  0x000000000c002f24        0xa ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002f24                sp_free
+ .text.sp_grow  0x000000000c002f2e       0x62 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002f2e                sp_grow
+ .text.sp_clear
+                0x000000000c002f90       0x42 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002f90                sp_clear
+ .text.sp_forcezero
+                0x000000000c002fd2       0x34 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c002fd2                sp_forcezero
+ .text._sp_cmp_abs
+                0x000000000c003006       0x8c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text._sp_cmp  0x000000000c003092       0x1c ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_cmp   0x000000000c0030ae       0x44 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c0030ae                sp_cmp
+ .text.sp_count_bits
+                0x000000000c0030f2       0x98 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c0030f2                sp_count_bits
+ .text._sp_set  0x000000000c00318a       0x28 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_set   0x000000000c0031b2       0x30 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c0031b2                sp_set
+ .text.sp_unsigned_bin_size
+                0x000000000c0031e2       0x2e ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c0031e2                sp_unsigned_bin_size
+ .text.sp_read_unsigned_bin
+                0x000000000c003210      0x144 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c003210                sp_read_unsigned_bin
+ .text._sp_read_radix_16
+                0x000000000c003354       0xf0 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .text.sp_read_radix
+                0x000000000c003444       0x66 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                0x000000000c003444                sp_read_radix
+ .text.ForceZero
+                0x000000000c0034aa       0x28 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mul_8
+                0x000000000c0034d2       0x84 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_sqr_8
+                0x000000000c003556       0xaa ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_add_8
+                0x000000000c003600       0x50 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mod_mul_norm_8
+                0x000000000c003650      0x30a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_from_mp
+                0x000000000c00395a       0x60 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_to_mp
+                0x000000000c0039ba       0x62 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_point_to_ecc_point_8
+                0x000000000c003a1c       0x54 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_mul_8
+                0x000000000c003a70      0x2e8 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_sqr_8
+                0x000000000c003d58      0x28c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_inv_8
+                0x000000000c003fe4       0x84 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_cmp_8
+                0x000000000c004068       0x52 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_cond_sub_8
+                0x000000000c0040ba       0x4c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_reduce_8
+                0x000000000c004106      0x176 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_reduce_order_8
+                0x000000000c00427c       0xdc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_map_8
+                0x000000000c004358      0x108 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_add_8
+                0x000000000c004460       0x9a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_dbl_8
+                0x000000000c0044fa       0x82 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_tpl_8
+                0x000000000c00457c       0xfe ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_sub_8
+                0x000000000c00467a       0x92 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_div2_8
+                0x000000000c00470c       0xae ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ *fill*         0x000000000c0047ba        0x2 
+ .text.sp_256_proj_point_dbl_8
+                0x000000000c0047bc      0x134 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_cmp_equal_8
+                0x000000000c0048f0       0x90 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_iszero_8
+                0x000000000c004980       0x50 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_proj_point_add_8
+                0x000000000c0049d0      0x32c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_get_point_16_8
+                0x000000000c004cfc      0x3a6 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ *fill*         0x000000000c0050a2        0x2 
+ .text.sp_256_ecc_mulmod_fast_8
+                0x000000000c0050a4      0x4c4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_proj_point_add_qz1_8
+                0x000000000c005568      0x2dc ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_get_entry_16_8
+                0x000000000c005844      0x216 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ *fill*         0x000000000c005a5a        0x2 
+ .text.sp_256_ecc_mulmod_stripe_8
+                0x000000000c005a5c      0x22c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_ecc_mulmod_8
+                0x000000000c005c88       0x2a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ *fill*         0x000000000c005cb2        0x2 
+ .text.sp_256_ecc_mulmod_base_8
+                0x000000000c005cb4       0x38 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_mulmod_base_256
+                0x000000000c005cec       0x50 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+                0x000000000c005cec                sp_ecc_mulmod_base_256
+ .text.sp_256_from_bin
+                0x000000000c005d3c       0xf4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_sub_in_place_8
+                0x000000000c005e30       0x46 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mul_d_8
+                0x000000000c005e76       0x5a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.div_256_word_8
+                0x000000000c005ed0       0xa2 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mask_8
+                0x000000000c005f72       0x3a ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_div_8
+                0x000000000c005fac      0x1e0 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mod_8
+                0x000000000c00618c       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_mul_order_8
+                0x000000000c0061ac       0x30 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_sqr_order_8
+                0x000000000c0061dc       0x2c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_mont_inv_order_8
+                0x000000000c006208       0x78 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_add_points_8
+                0x000000000c006280       0x9c ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_256_calc_vfy_point_8
+                0x000000000c00631c       0xd4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .text.sp_ecc_verify_256
+                0x000000000c0063f0      0x234 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+                0x000000000c0063f0                sp_ecc_verify_256
+ .text.wc_ecc_curve_cache_free_spec_item
+                0x000000000c006624       0x3e ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_curve_cache_free_spec
+                0x000000000c006662       0xaa ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_curve_free
+                0x000000000c00670c       0x1a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_curve_cache_load_item
+                0x000000000c006726       0x7a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_curve_load
+                0x000000000c0067a0      0x148 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_set_curve
+                0x000000000c0068e8       0xd0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c0068e8                wc_ecc_set_curve
+ .text.wc_ecc_is_valid_idx
+                0x000000000c0069b8       0x4c ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c0069b8                wc_ecc_is_valid_idx
+ .text.wc_ecc_reset
+                0x000000000c006a04       0x10 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.ecc_make_pub_ex
+                0x000000000c006a14      0x110 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_init_ex
+                0x000000000c006b24       0x6a ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c006b24                wc_ecc_init_ex
+ .text.wc_ecc_init
+                0x000000000c006b8e       0x1c ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c006b8e                wc_ecc_init
+ .text.wc_ecc_free
+                0x000000000c006baa       0x42 ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c006baa                wc_ecc_free
+ .text.wc_ecc_check_r_s_range
+                0x000000000c006bec       0xb2 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ *fill*         0x000000000c006c9e        0x2 
+ .text.ecc_verify_hash_sp
+                0x000000000c006ca0       0x98 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_verify_hash_ex
+                0x000000000c006d38      0x1a4 ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c006d38                wc_ecc_verify_hash_ex
+ .text.wc_ecc_import_raw_private
+                0x000000000c006edc      0x1d2 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .text.wc_ecc_import_unsigned
+                0x000000000c0070ae       0x2a ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c0070ae                wc_ecc_import_unsigned
+ *(.rodata*)
+ .rodata.wolfboot_magic_trail
+                0x000000000c0070d8        0x4 ./src/libwolfboot.o
+ .rodata.K      0x000000000c0070dc      0x100 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .rodata.p256_mod
+                0x000000000c0071dc       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_norm_mod
+                0x000000000c0071fc       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_order
+                0x000000000c00721c       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_norm_order
+                0x000000000c00723c       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_base
+                0x000000000c00725c       0xc4 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_mod_minus_2
+                0x000000000c007320       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_table
+                0x000000000c007340      0x400 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.p256_order_minus_2
+                0x000000000c007740       0x20 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .rodata.ecc_oid_secp256r1
+                0x000000000c007760        0x8 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .rodata        0x000000000c007768      0x1a1 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ *fill*         0x000000000c007909        0x3 
+ .rodata.ecc_sets
+                0x000000000c00790c       0x68 ./lib/wolfssl/wolfcrypt/src/ecc.o
+                0x000000000c00790c                ecc_sets
+                0x000000000c007978                . = ALIGN (0x8)
+ *fill*         0x000000000c007974        0x4 
+                0x000000000c007978                _end_text = .
+
+.keystore       0x000000000c007978       0x50
+ .keystore      0x000000000c007978       0x50 ./src/keystore.o
+                0x000000000c007978                PubKeys
+
+.glue_7         0x000000000c0079c8        0x0
+ .glue_7        0x000000000c0079c8        0x0 linker stubs
+
+.glue_7t        0x000000000c0079c8        0x0
+ .glue_7t       0x000000000c0079c8        0x0 linker stubs
+
+.vfp11_veneer   0x000000000c0079c8        0x0
+ .vfp11_veneer  0x000000000c0079c8        0x0 linker stubs
+
+.v4_bx          0x000000000c0079c8        0x0
+ .v4_bx         0x000000000c0079c8        0x0 linker stubs
+
+.iplt           0x000000000c0079c8        0x0
+ .iplt          0x000000000c0079c8        0x0 ./hal/stm32u5.o
+
+.rel.dyn        0x000000000c0079c8        0x0
+ .rel.iplt      0x000000000c0079c8        0x0 ./hal/stm32u5.o
+
+.edidx          0x000000000c0079c8        0x0
+                0x000000000c0079c8                . = ALIGN (0x4)
+ *(.ARM.exidx*)
+
+.gnu.sgstubs    0x000000000c020000        0x0
+                0x000000000c020000                . = ALIGN (0x4)
+ *(.gnu.sgstubs*)
+                0x000000000c020000                . = ALIGN (0x4)
+                0x000000000c020000                _stored_data = .
+
+.data           0x0000000030000000        0x0 load address 0x000000000c020000
+                0x0000000030000000                _start_data = .
+ *(.data*)
+ .data          0x0000000030000000        0x0 ./hal/stm32u5.o
+ .data          0x0000000030000000        0x0 ./src/string.o
+ .data          0x0000000030000000        0x0 ./src/image.o
+ .data          0x0000000030000000        0x0 ./src/libwolfboot.o
+ .data          0x0000000030000000        0x0 ./src/keystore.o
+ .data          0x0000000030000000        0x0 ./src/loader.o
+ .data          0x0000000030000000        0x0 src/boot_arm.o
+ .data          0x0000000030000000        0x0 hal/stm32_tz.o
+ .data          0x0000000030000000        0x0 ./src/update_flash.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .data          0x0000000030000000        0x0 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .data          0x0000000030000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000030000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000030000000        0x0 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000000030000000                . = ALIGN (0x8)
+ *(.ramcode)
+                0x0000000030000000                . = ALIGN (0x8)
+                0x0000000030000000                _end_data = .
+
+.igot.plt       0x0000000030000000        0x0 load address 0x000000000c020000
+ .igot.plt      0x0000000030000000        0x0 ./hal/stm32u5.o
+
+.bss            0x0000000030000000     0x2030 load address 0x000000000c020000
+                0x0000000030000000                _start_bss = .
+                0x0000000030000000                __bss_start__ = .
+ *(.bss*)
+ .bss.digest    0x0000000030000000       0x20 ./src/image.o
+ .bss.NVM_CACHE
+                0x0000000030000020     0x2000 ./src/libwolfboot.o
+ .bss.nvm_cached_sector
+                0x0000000030002020        0x4 ./src/libwolfboot.o
+ .bss.app_entry
+                0x0000000030002024        0x4 src/boot_arm.o
+ .bss.app_end_stack
+                0x0000000030002028        0x4 src/boot_arm.o
+ *(COMMON)
+                0x0000000030002030                . = ALIGN (0x8)
+ *fill*         0x000000003000202c        0x4 
+                0x0000000030002030                _end_bss = .
+                0x0000000030002030                __bss_end__ = .
+                0x0000000030002030                _end = .
+                0x0000000030002030                . = ALIGN (0x8)
+                0x0000000030017fff                END_STACK = (ORIGIN (RAM) + LENGTH (RAM))
+OUTPUT(wolfboot.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0xce47
+ .debug_info    0x0000000000000000      0x4ff ./hal/stm32u5.o
+ .debug_info    0x00000000000004ff      0x67d ./src/string.o
+ .debug_info    0x0000000000000b7c      0xda5 ./src/image.o
+ .debug_info    0x0000000000001921      0xb91 ./src/libwolfboot.o
+ .debug_info    0x00000000000024b2      0x1c1 ./src/keystore.o
+ .debug_info    0x0000000000002673      0x17d ./src/loader.o
+ .debug_info    0x00000000000027f0      0x28e src/boot_arm.o
+ .debug_info    0x0000000000002a7e      0x2ca hal/stm32_tz.o
+ .debug_info    0x0000000000002d48      0x51c ./src/update_flash.o
+ .debug_info    0x0000000000003264      0xd4d ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_info    0x0000000000003fb1      0x674 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_info    0x0000000000004625       0x77 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_info    0x000000000000469c     0x1960 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_info    0x0000000000005ffc     0x2617 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_info    0x0000000000008613     0x2b6c ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_info    0x000000000000b17f      0x251 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_info    0x000000000000b3d0      0x54c ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_info    0x000000000000b91c      0x978 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_info    0x000000000000c294      0xbb3 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_abbrev   0x0000000000000000     0x233b
+ .debug_abbrev  0x0000000000000000      0x234 ./hal/stm32u5.o
+ .debug_abbrev  0x0000000000000234      0x16a ./src/string.o
+ .debug_abbrev  0x000000000000039e      0x302 ./src/image.o
+ .debug_abbrev  0x00000000000006a0      0x2a9 ./src/libwolfboot.o
+ .debug_abbrev  0x0000000000000949       0xfd ./src/keystore.o
+ .debug_abbrev  0x0000000000000a46      0x100 ./src/loader.o
+ .debug_abbrev  0x0000000000000b46      0x1cf src/boot_arm.o
+ .debug_abbrev  0x0000000000000d15      0x1ab hal/stm32_tz.o
+ .debug_abbrev  0x0000000000000ec0      0x246 ./src/update_flash.o
+ .debug_abbrev  0x0000000000001106      0x282 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_abbrev  0x0000000000001388      0x105 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_abbrev  0x000000000000148d       0x28 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_abbrev  0x00000000000014b5      0x256 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_abbrev  0x000000000000170b      0x24e ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_abbrev  0x0000000000001959      0x31d ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_abbrev  0x0000000000001c76      0x135 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_abbrev  0x0000000000001dab      0x178 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_abbrev  0x0000000000001f23      0x1e3 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_abbrev  0x0000000000002106      0x235 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_aranges  0x0000000000000000      0xd08
+ .debug_aranges
+                0x0000000000000000       0xa0 ./hal/stm32u5.o
+ .debug_aranges
+                0x00000000000000a0       0xb0 ./src/string.o
+ .debug_aranges
+                0x0000000000000150       0xa0 ./src/image.o
+ .debug_aranges
+                0x00000000000001f0      0x120 ./src/libwolfboot.o
+ .debug_aranges
+                0x0000000000000310       0x40 ./src/keystore.o
+ .debug_aranges
+                0x0000000000000350       0x30 ./src/loader.o
+ .debug_aranges
+                0x0000000000000380       0x48 src/boot_arm.o
+ .debug_aranges
+                0x00000000000003c8       0x58 hal/stm32_tz.o
+ .debug_aranges
+                0x0000000000000420       0x48 ./src/update_flash.o
+ .debug_aranges
+                0x0000000000000468       0xb0 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_aranges
+                0x0000000000000518       0x40 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_aranges
+                0x0000000000000558       0x18 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_aranges
+                0x0000000000000570      0x1e8 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_aranges
+                0x0000000000000758      0x1d8 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_aranges
+                0x0000000000000930      0x250 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_aranges
+                0x0000000000000b80       0x40 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_aranges
+                0x0000000000000bc0       0x98 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_aranges
+                0x0000000000000c58       0x40 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_aranges
+                0x0000000000000c98       0x70 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_rnglists
+                0x0000000000000000      0x9d3
+ .debug_rnglists
+                0x0000000000000000       0x76 ./hal/stm32u5.o
+ .debug_rnglists
+                0x0000000000000076       0x7f ./src/string.o
+ .debug_rnglists
+                0x00000000000000f5       0x79 ./src/image.o
+ .debug_rnglists
+                0x000000000000016e       0xd9 ./src/libwolfboot.o
+ .debug_rnglists
+                0x0000000000000247       0x2b ./src/keystore.o
+ .debug_rnglists
+                0x0000000000000272       0x1f ./src/loader.o
+ .debug_rnglists
+                0x0000000000000291       0x31 src/boot_arm.o
+ .debug_rnglists
+                0x00000000000002c2       0x3e hal/stm32_tz.o
+ .debug_rnglists
+                0x0000000000000300       0x34 ./src/update_flash.o
+ .debug_rnglists
+                0x0000000000000334       0x8f ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_rnglists
+                0x00000000000003c3       0x2b ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_rnglists
+                0x00000000000003ee      0x181 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_rnglists
+                0x000000000000056f      0x17d ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_rnglists
+                0x00000000000006ec      0x1cd ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_rnglists
+                0x00000000000008b9       0x2b ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_rnglists
+                0x00000000000008e4       0x6e ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_rnglists
+                0x0000000000000952       0x2d ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_rnglists
+                0x000000000000097f       0x54 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_macro    0x0000000000000000     0x5e2c
+ .debug_macro   0x0000000000000000      0x160 ./hal/stm32u5.o
+ .debug_macro   0x0000000000000160      0xb14 ./hal/stm32u5.o
+ .debug_macro   0x0000000000000c74      0x34e ./hal/stm32u5.o
+ .debug_macro   0x0000000000000fc2       0x46 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001008       0x16 ./hal/stm32u5.o
+ .debug_macro   0x000000000000101e      0x1a8 ./hal/stm32u5.o
+ .debug_macro   0x00000000000011c6       0x74 ./hal/stm32u5.o
+ .debug_macro   0x000000000000123a       0x92 ./hal/stm32u5.o
+ .debug_macro   0x00000000000012cc       0x22 ./hal/stm32u5.o
+ .debug_macro   0x00000000000012ee       0x6e ./hal/stm32u5.o
+ .debug_macro   0x000000000000135c       0x24 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001380       0x94 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001414       0x3c ./hal/stm32u5.o
+ .debug_macro   0x0000000000001450       0x34 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001484      0x174 ./hal/stm32u5.o
+ .debug_macro   0x00000000000015f8       0x16 ./hal/stm32u5.o
+ .debug_macro   0x000000000000160e       0x43 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001651       0x57 ./hal/stm32u5.o
+ .debug_macro   0x00000000000016a8       0x34 ./hal/stm32u5.o
+ .debug_macro   0x00000000000016dc       0x10 ./hal/stm32u5.o
+ .debug_macro   0x00000000000016ec       0x58 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001744      0x1de ./hal/stm32u5.o
+ .debug_macro   0x0000000000001922      0x369 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001c8b       0x10 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001c9b       0x35 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001cd0       0x20 ./hal/stm32u5.o
+ .debug_macro   0x0000000000001cf0      0x3eb ./hal/stm32u5.o
+ .debug_macro   0x00000000000020db      0x151 ./src/string.o
+ .debug_macro   0x000000000000222c      0x30d ./src/image.o
+ .debug_macro   0x0000000000002539      0x1e3 ./src/image.o
+ .debug_macro   0x000000000000271c       0x1c ./src/image.o
+ .debug_macro   0x0000000000002738      0x162 ./src/image.o
+ .debug_macro   0x000000000000289a       0x10 ./src/image.o
+ .debug_macro   0x00000000000028aa       0x10 ./src/image.o
+ .debug_macro   0x00000000000028ba       0x10 ./src/image.o
+ .debug_macro   0x00000000000028ca       0x79 ./src/image.o
+ .debug_macro   0x0000000000002943       0x48 ./src/image.o
+ .debug_macro   0x000000000000298b       0x4a ./src/image.o
+ .debug_macro   0x00000000000029d5       0x16 ./src/image.o
+ .debug_macro   0x00000000000029eb       0x16 ./src/image.o
+ .debug_macro   0x0000000000002a01       0x29 ./src/image.o
+ .debug_macro   0x0000000000002a2a       0xd6 ./src/image.o
+ .debug_macro   0x0000000000002b00       0x1c ./src/image.o
+ .debug_macro   0x0000000000002b1c       0x10 ./src/image.o
+ .debug_macro   0x0000000000002b2c       0x1c ./src/image.o
+ .debug_macro   0x0000000000002b48       0x16 ./src/image.o
+ .debug_macro   0x0000000000002b5e      0x171 ./src/image.o
+ .debug_macro   0x0000000000002ccf      0x131 ./src/image.o
+ .debug_macro   0x0000000000002e00       0x10 ./src/image.o
+ .debug_macro   0x0000000000002e10       0x7c ./src/image.o
+ .debug_macro   0x0000000000002e8c       0x17 ./src/image.o
+ .debug_macro   0x0000000000002ea3      0x118 ./src/image.o
+ .debug_macro   0x0000000000002fbb       0x35 ./src/image.o
+ .debug_macro   0x0000000000002ff0       0x18 ./src/image.o
+ .debug_macro   0x0000000000003008       0x5b ./src/image.o
+ .debug_macro   0x0000000000003063       0x23 ./src/image.o
+ .debug_macro   0x0000000000003086       0x18 ./src/image.o
+ .debug_macro   0x000000000000309e       0x35 ./src/image.o
+ .debug_macro   0x00000000000030d3      0x123 ./src/image.o
+ .debug_macro   0x00000000000031f6      0x25e ./src/image.o
+ .debug_macro   0x0000000000003454       0x1c ./src/image.o
+ .debug_macro   0x0000000000003470       0x47 ./src/image.o
+ .debug_macro   0x00000000000034b7      0x297 ./src/libwolfboot.o
+ .debug_macro   0x000000000000374e      0x1e9 ./src/libwolfboot.o
+ .debug_macro   0x0000000000003937       0x74 ./src/libwolfboot.o
+ .debug_macro   0x00000000000039ab       0x16 ./src/libwolfboot.o
+ .debug_macro   0x00000000000039c1       0x66 ./src/libwolfboot.o
+ .debug_macro   0x0000000000003a27       0x12 ./src/libwolfboot.o
+ .debug_macro   0x0000000000003a39       0x61 ./src/keystore.o
+ .debug_macro   0x0000000000003a9a       0xa2 ./src/loader.o
+ .debug_macro   0x0000000000003b3c       0x22 ./src/loader.o
+ .debug_macro   0x0000000000003b5e       0x98 src/boot_arm.o
+ .debug_macro   0x0000000000003bf6      0x1d0 hal/stm32_tz.o
+ .debug_macro   0x0000000000003dc6      0x186 ./src/update_flash.o
+ .debug_macro   0x0000000000003f4c       0x10 ./src/update_flash.o
+ .debug_macro   0x0000000000003f5c      0x2bb ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000004217       0x1e ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x0000000000004235       0x65 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x000000000000429a       0x11 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_macro   0x00000000000042ab      0x1e0 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x000000000000448b       0x5f ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_macro   0x00000000000044ea      0x1d7 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x00000000000046c1       0x12 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_macro   0x00000000000046d3      0x2e2 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_macro   0x00000000000049b5      0x2cf ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000004c84       0x54 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000004cd8       0x4d ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_macro   0x0000000000004d25      0x37f ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x00000000000050a4       0x6a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x000000000000510e      0x17a ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x0000000000005288       0x40 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_macro   0x00000000000052c8      0x1d4 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x000000000000549c      0x10e ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x00000000000055aa       0x8d ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x0000000000005637       0xba ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_macro   0x00000000000056f1      0x273 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000005964      0x28f ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_macro   0x0000000000005bf3      0x229 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_macro   0x0000000000005e1c       0x10 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_line     0x0000000000000000     0xaf78
+ .debug_line    0x0000000000000000      0x933 ./hal/stm32u5.o
+ .debug_line    0x0000000000000933      0x760 ./src/string.o
+ .debug_line    0x0000000000001093      0x870 ./src/image.o
+ .debug_line    0x0000000000001903      0xb0a ./src/libwolfboot.o
+ .debug_line    0x000000000000240d      0x177 ./src/keystore.o
+ .debug_line    0x0000000000002584      0x188 ./src/loader.o
+ .debug_line    0x000000000000270c      0x1dd src/boot_arm.o
+ .debug_line    0x00000000000028e9      0x4ae hal/stm32_tz.o
+ .debug_line    0x0000000000002d97      0x5cd ./src/update_flash.o
+ .debug_line    0x0000000000003364      0x8c6 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_line    0x0000000000003c2a      0x390 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_line    0x0000000000003fba      0x311 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .debug_line    0x00000000000042cb     0x1ec8 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_line    0x0000000000006193     0x1df0 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_line    0x0000000000007f83     0x1918 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_line    0x000000000000989b      0x3ec ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_line    0x0000000000009c87      0x761 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_line    0x000000000000a3e8      0x5b4 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_line    0x000000000000a99c      0x5dc ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.debug_str      0x0000000000000000    0x11f8f
+ .debug_str     0x0000000000000000     0x8ee0 ./hal/stm32u5.o
+                                       0x915f (size before relaxing)
+ .debug_str     0x0000000000008ee0       0x90 ./src/string.o
+                                       0x7cf6 (size before relaxing)
+ .debug_str     0x0000000000008f70     0x455a ./src/image.o
+                                       0xc2fc (size before relaxing)
+ .debug_str     0x000000000000d4ca      0x5de ./src/libwolfboot.o
+                                       0xa753 (size before relaxing)
+ .debug_str     0x000000000000daa8       0xa2 ./src/keystore.o
+                                       0x4670 (size before relaxing)
+ .debug_str     0x000000000000db4a       0xf1 ./src/loader.o
+                                       0x4b8e (size before relaxing)
+ .debug_str     0x000000000000dc3b      0x10a src/boot_arm.o
+                                       0x4baf (size before relaxing)
+ .debug_str     0x000000000000dd45      0x3a6 hal/stm32_tz.o
+                                       0x9345 (size before relaxing)
+ .debug_str     0x000000000000e0eb      0x148 ./src/update_flash.o
+                                       0x8052 (size before relaxing)
+ .debug_str     0x000000000000e233     0x1122 ./lib/wolfssl/wolfcrypt/src/sha256.o
+                                       0x9c84 (size before relaxing)
+ .debug_str     0x000000000000f355       0xac ./lib/wolfssl/wolfcrypt/src/logging.o
+                                       0x94a0 (size before relaxing)
+ .debug_str     0x000000000000f401       0x20 ./lib/wolfssl/wolfcrypt/src/asn.o
+                                       0x87c0 (size before relaxing)
+ .debug_str     0x000000000000f421      0x6f2 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+                                       0xa9b3 (size before relaxing)
+ .debug_str     0x000000000000fb13      0x710 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+                                       0xc09f (size before relaxing)
+ .debug_str     0x0000000000010223     0x1904 ./lib/wolfssl/wolfcrypt/src/ecc.o
+                                       0xd92f (size before relaxing)
+ .debug_str     0x0000000000011b27       0xc3 ./lib/wolfssl/wolfcrypt/src/memory.o
+                                       0x8a2c (size before relaxing)
+ .debug_str     0x0000000000011bea      0x157 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+                                       0xa667 (size before relaxing)
+ .debug_str     0x0000000000011d41       0x86 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+                                       0xb00c (size before relaxing)
+ .debug_str     0x0000000000011dc7      0x1c8 ./lib/wolfssl/wolfcrypt/src/hash.o
+                                       0x9a0e (size before relaxing)
+
+.comment        0x0000000000000000       0x43
+ .comment       0x0000000000000000       0x43 ./hal/stm32u5.o
+                                         0x44 (size before relaxing)
+ .comment       0x0000000000000043       0x44 ./src/string.o
+ .comment       0x0000000000000043       0x44 ./src/image.o
+ .comment       0x0000000000000043       0x44 ./src/libwolfboot.o
+ .comment       0x0000000000000043       0x44 ./src/keystore.o
+ .comment       0x0000000000000043       0x44 ./src/loader.o
+ .comment       0x0000000000000043       0x44 src/boot_arm.o
+ .comment       0x0000000000000043       0x44 hal/stm32_tz.o
+ .comment       0x0000000000000043       0x44 ./src/update_flash.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .comment       0x0000000000000043       0x44 ./lib/wolfssl/wolfcrypt/src/hash.o
+
+.ARM.attributes
+                0x0000000000000000       0x34
+ .ARM.attributes
+                0x0000000000000000       0x34 ./hal/stm32u5.o
+ .ARM.attributes
+                0x0000000000000034       0x34 ./src/string.o
+ .ARM.attributes
+                0x0000000000000068       0x34 ./src/image.o
+ .ARM.attributes
+                0x000000000000009c       0x34 ./src/libwolfboot.o
+ .ARM.attributes
+                0x00000000000000d0       0x34 ./src/keystore.o
+ .ARM.attributes
+                0x0000000000000104       0x34 ./src/loader.o
+ .ARM.attributes
+                0x0000000000000138       0x34 src/boot_arm.o
+ .ARM.attributes
+                0x000000000000016c       0x34 hal/stm32_tz.o
+ .ARM.attributes
+                0x00000000000001a0       0x34 ./src/update_flash.o
+ .ARM.attributes
+                0x00000000000001d4       0x34 ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .ARM.attributes
+                0x0000000000000208       0x34 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .ARM.attributes
+                0x000000000000023c       0x34 ./lib/wolfssl/wolfcrypt/src/asn.o
+ .ARM.attributes
+                0x0000000000000270       0x34 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .ARM.attributes
+                0x00000000000002a4       0x34 ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .ARM.attributes
+                0x00000000000002d8       0x34 ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .ARM.attributes
+                0x000000000000030c       0x34 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .ARM.attributes
+                0x0000000000000340       0x34 ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .ARM.attributes
+                0x0000000000000374       0x34 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .ARM.attributes
+                0x00000000000003a8       0x34 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .ARM.attributes
+                0x00000000000003dc       0x22 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000003fe       0x32 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000430       0x22 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000     0x28f4
+ .debug_frame   0x0000000000000000      0x1b0 ./hal/stm32u5.o
+ .debug_frame   0x00000000000001b0      0x1f0 ./src/string.o
+ .debug_frame   0x00000000000003a0      0x1d8 ./src/image.o
+ .debug_frame   0x0000000000000578      0x390 ./src/libwolfboot.o
+ .debug_frame   0x0000000000000908       0x8c ./src/keystore.o
+ .debug_frame   0x0000000000000994       0x50 ./src/loader.o
+ .debug_frame   0x00000000000009e4       0x94 src/boot_arm.o
+ .debug_frame   0x0000000000000a78       0xd4 hal/stm32_tz.o
+ .debug_frame   0x0000000000000b4c       0xa8 ./src/update_flash.o
+ .debug_frame   0x0000000000000bf4      0x21c ./lib/wolfssl/wolfcrypt/src/sha256.o
+ .debug_frame   0x0000000000000e10       0x70 ./lib/wolfssl/wolfcrypt/src/logging.o
+ .debug_frame   0x0000000000000e80      0x690 ./lib/wolfssl/wolfcrypt/src/sp_int.o
+ .debug_frame   0x0000000000001510      0x7ac ./lib/wolfssl/wolfcrypt/src/sp_cortexm.o
+ .debug_frame   0x0000000000001cbc      0x7cc ./lib/wolfssl/wolfcrypt/src/ecc.o
+ .debug_frame   0x0000000000002488       0x94 ./lib/wolfssl/wolfcrypt/src/memory.o
+ .debug_frame   0x000000000000251c      0x1ac ./lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_frame   0x00000000000026c8       0x94 ./lib/wolfssl/wolfcrypt/src/wolfmath.o
+ .debug_frame   0x000000000000275c      0x134 ./lib/wolfssl/wolfcrypt/src/hash.o
+ .debug_frame   0x0000000000002890       0x2c /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000028bc       0x38 /opt/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main/nofp/libgcc.a(_udivmoddi4.o)
