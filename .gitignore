@@ -141,3 +141,4 @@ debug/lauterbach
 *.gcda
 *.gcno
 coverage.*
+.DS_Store
